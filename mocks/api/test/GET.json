@@ -1,0 +1,8 @@
+{
+  "myData": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30
+  },
+  "note": "some descriptive information"
+}
